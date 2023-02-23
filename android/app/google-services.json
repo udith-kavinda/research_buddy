@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347172684923",
+    "project_id": "reasearch-buddy",
+    "storage_bucket": "reasearch-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347172684923:android:7cdfb99a141b729cd64ede",
+        "android_client_info": {
+          "package_name": "com.example.research_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347172684923-1pnmvfiehdmvd94o0oi4ku5bc1u8qrg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1MChlr4QbUsgjmK0RV_wc2fNeiOXzm6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347172684923-1pnmvfiehdmvd94o0oi4ku5bc1u8qrg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
